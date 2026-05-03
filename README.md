@@ -16,8 +16,10 @@ I'm Areeba Ishaq, a passionate and motivated 4th-semester BS Information Enginee
 ### 🛠️ Tech Stack
 **Web Development:**
 - HTML5 | CSS3 | JavaScript
+
 **Programming:**
 - C++ | Embedded system
+
 **Tools & Platforms:**
 - Git | GitHub | VS Code | Arduino IDE
 
