@@ -1,9 +1,9 @@
-#👋 Areeba Ishaq  
+**👋 Areeba Ishaq**  
 🧑🏻‍🎓 Student
 
 ---
 
-##🚀 About Me
+**🚀 About Me**
 
 I'm Areeba Ishaq, a passionate and motivated 4th-semester BS Information Engineering Technology student at the University of Lahore (CGPA: 3.88/4.0). I love building responsive, user-friendly web solutions and I'm always eager to learn and grow as a developer.
 --
